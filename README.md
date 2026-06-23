@@ -29,7 +29,7 @@ Add this to your `~/.claude/settings.json`:
 ```json
 {
   "extraKnownMarketplaces": {
-    "my-claude-skills": {
+    "master-ui": {
       "source": {
         "source": "git",
         "url": "https://github.com/akandaui/my-claude-skills.git"
@@ -42,7 +42,7 @@ Add this to your `~/.claude/settings.json`:
 Then install via Claude Code:
 
 ```
-/install-skill my-claude-skills
+/install-skill master-ui
 ```
 
 ### Usage

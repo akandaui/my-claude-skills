@@ -1,6 +1,6 @@
 {
-  "name": "master-ui-skill",
-  "id": "master-ui-skill",
+  "name": "master-ui",
+  "id": "master-ui",
   "owner": { "name": "Akanda" },
   "metadata": {
     "description": "Master UI/UX skill synthesized from 23 foundational design books",
