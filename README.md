@@ -1,8 +1,14 @@
-# Master UI Skill for Claude Code
+# my-claude-skills
+
+A collection of Claude Code skills by **Akanda**.
+
+---
+
+## Master UI Skill
 
 A Claude Code skill synthesized from **23 foundational UI/UX design books**, including the full UXPin series, O'Reilly Microinteractions, Designing Interfaces (Jenifer Tidwell), and Task-Centered UI Design.
 
-## What it covers
+### What it covers
 
 - Visual Hierarchy & Layout
 - Color Theory
@@ -16,17 +22,17 @@ A Claude Code skill synthesized from **23 foundational UI/UX design books**, inc
 - Flat Design & Modern Aesthetics
 - Design Process
 
-## Installation
+### Installation
 
 Add this to your `~/.claude/settings.json`:
 
 ```json
 {
   "extraKnownMarketplaces": {
-    "master-ui-skill": {
+    "my-claude-skills": {
       "source": {
         "source": "git",
-        "url": "https://github.com/Akanda/master-ui-skill.git"
+        "url": "https://github.com/akandaui/my-claude-skills.git"
       }
     }
   }
@@ -36,16 +42,12 @@ Add this to your `~/.claude/settings.json`:
 Then install via Claude Code:
 
 ```
-/install-skill master-ui-skill
+/install-skill my-claude-skills
 ```
 
-## Usage
+### Usage
 
 Type `/master-ui` in any Claude Code session to activate the skill, or it will auto-activate when working on UI/UX tasks.
-
-## Author
-
-**Akanda** — built from 23 UI/UX design books.
 
 ## License
 
