@@ -5,5 +5,5 @@
   "author": { "name": "Akanda" },
   "license": "MIT",
   "keywords": ["ui", "ux", "design", "typography", "color", "whitespace", "patterns"],
-  "skills": ["./.claude/skills/master-ui"]
+  "skills": ["./master-ui"]
 }
