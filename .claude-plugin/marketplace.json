@@ -1,0 +1,19 @@
+{
+  "name": "master-ui-skill",
+  "id": "master-ui-skill",
+  "owner": { "name": "Akanda" },
+  "metadata": {
+    "description": "Master UI/UX skill synthesized from 23 foundational design books",
+    "version": "1.0.0"
+  },
+  "plugins": [{
+    "name": "master-ui",
+    "source": "./",
+    "description": "Master UI/UX design guidelines synthesized from 23 foundational books including UXPin series, O'Reilly Microinteractions, Designing Interfaces, and Task-Centered UI Design.",
+    "version": "1.0.0",
+    "author": { "name": "Akanda" },
+    "keywords": ["ui", "ux", "design", "typography", "color", "whitespace", "patterns", "microinteractions"],
+    "category": "design",
+    "strict": false
+  }]
+}

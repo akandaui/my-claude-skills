@@ -1,0 +1,9 @@
+{
+  "name": "master-ui",
+  "description": "Master UI/UX design guidelines from 23 foundational design books",
+  "version": "1.0.0",
+  "author": { "name": "Akanda" },
+  "license": "MIT",
+  "keywords": ["ui", "ux", "design", "typography", "color", "whitespace", "patterns"],
+  "skills": ["./.claude/skills/master-ui"]
+}
